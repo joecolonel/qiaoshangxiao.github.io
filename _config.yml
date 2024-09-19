@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaojian Xu"
+title                    : "Shangxiao Qiao"
 title_separator          : "-"
-name                     : &name "Xiaojian Xu"
-description              : &description "PhD in CS, Washington University in St. Louis"
-url                      : https://xuxiaojian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shangxiao Qiao"
+description              : &description "PhD in ESE, Xi'an University of Technology"
+url                      : https://qiaoshangxiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuxiaojian.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaojian Xu (许晓健)"
+  name             : "Shangxiao Qiao (乔尚校)"
   avatar           : "profile.png"
-  bio              : "PhD in CS, Washington University in St. Louis"
+  bio              : "PhD in ESE, Xi'an University of Technology"
   location         : "St. Louis, MO"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
