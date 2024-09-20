@@ -24,14 +24,11 @@ Recent news
 ======
 
 ```bash
-* 08-22-2022: I started my postdoc research at UMich under the supervision of Prof. Jeffrey Fessler.
-* 07-28-2022: I passed my dissertation defense on "Model-based Deep Learning for Computational Imaging".
-* 05-24-2021: I started my research intern at Facebook Reality Labs Research (FRL).
-* 05-04-2021: I passed my thesis proposal defense on "Model-based Deep Learning for Computational Imaging".
-* 04-03-2020: I passed my oral qualification exam on "Computational Imaging: Leverage the Power of Deep Learning".
-* 05-27-2019: I started my research intern at Mitsubishi Electric Research Laboratory (MERL).
-* 02-01-2018: I joined the Computational Imaging Group (CIG) under the supervision of Prof. Ulugbek Kamilov.
-* 08-27-2017: I joined the Computer Science and Engineering (CSE) department at WashU.
+* 07-10-2024: I published a paper in *Desalination and Water Treatment*.
+* 08-28-2023: I joined Xi'an University of Technology as a PhD student.
+* 09-01-2022: I started working at Xi’an Thermal Power Research Institute Co., Ltd.
+* 07-28-2020: I started working at China United Northwest Institute for Engineering Design & Research Co., Ltd.
+* 07-15-2020: I received my Master's degree from Xi'an University of Technology.
 ```
 
 Contact information
