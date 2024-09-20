@@ -36,10 +36,9 @@ Recent news
 
 Contact information
 ======
-Department of Electrical Engineering and Computer Science (EECS) <br>
-University of Michigan, Ann Arbor MI, 48109, USA <br>
-Email: xiaojian+lastname@wustl.edu
-
+Department of Municipal and Environmental Engineering <br>
+Xi'an University of Technology,, 710048, CHN <br>
+Email: 2170420040@stu.xaut.edu.cn
 <a>
 <img src="/images/WechatIMG1.jpg" alt="Trulli" width="700" height="333">
 </a>
