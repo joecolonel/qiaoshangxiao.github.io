@@ -24,7 +24,7 @@ Recent news
 ======
 
 ```bash
-* 07-10-2024: I published a paper in *Desalination and Water Treatment*.
+* 07-10-2024: I published a paper in Desalination and Water Treatment.
 * 08-28-2023: I joined Xi'an University of Technology as a PhD student.
 * 09-01-2022: I started working at Xi’an Thermal Power Research Institute Co., Ltd.
 * 07-28-2020: I started working at China United Northwest Institute for Engineering Design & Research Co., Ltd.
