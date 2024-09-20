@@ -37,7 +37,7 @@ Recent news
 Contact information
 ======
 Department of Municipal and Environmental Engineering <br>
-Xi'an University of Technology,, 710048, CHN <br>
+Xi'an University of Technology, 710048, CHN <br>
 Email: 2170420040@stu.xaut.edu.cn
 <a>
 <img src="/images/WechatIMG1.jpg" alt="Trulli" width="700" height="333">
