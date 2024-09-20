@@ -41,7 +41,7 @@ University of Michigan, Ann Arbor MI, 48109, USA <br>
 Email: xiaojian+lastname@wustl.edu
 
 <a>
-<img src="/images/WechatIMG458.jpeg" alt="Trulli" width="700" height="333">
+<img src="/images/WechatIMG1.jpg" alt="Trulli" width="700" height="333">
 </a>
 
 
