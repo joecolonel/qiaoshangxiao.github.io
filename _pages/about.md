@@ -10,15 +10,15 @@ redirect_from:
 
 Nice to meet you here!
 
-I am Xiaojian Xu, a junior but passionate researcher working on computational imaging! I am currently a postdoc research fellow in the EECS department at University of Michigan (UMich), working with [Prof. Jeffrey Fessler]( https://web.eecs.umich.edu/~fessler/).
+I am Shangxiao Qiao, a junior but passionate researcher specializing in wastewater treatment. Currently, I am a second-year PhD student at Xi'an University of Technology. My research focuses on oxidation ditches, constructed wetlands, and numerical simulations for improving wastewater treatment processes.
 
-I got my PhD degree in Computer Science from Washington University in St. Louis (WashU) in 2022, where I had the fortune to work with [Prof. Ulugbek Kamilov](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html) in the Computational Imaging Group (CIG). Before I came to WashU, I got my  B.S. degree in Communication and Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2014,  recommend as an exam-free student to the graduate school, and then got my M.S. degree in Communication and Information Systems there in 2017. 
+In 2017, I earned my Bachelor's degree in Water Supply and Drainage Science and Engineering from Xi'an University of Technology, and later obtained my Master's degree in Municipal Engineering in 2020 from the same institution. After graduation, I worked in the wastewater treatment design industry for three years, which enriched my practical experience in designing wastewater treatment systems.
 
-My research interests include Computational Imaging, Deep Learning, Generative AI, Inverse Problems, Optimization Theory, and Computer Vision. Please feel free to contact me if you are interested in our research! 
+My research interests include wastewater treatment, advanced oxidation processes, constructed wetlands, and computational modeling. If you are interested in our research, feel free to contact me!
 
-
+<!--- 
 <h2>I am currently on the job market.</h2>
-
+--->
 
 Recent news
 ======
